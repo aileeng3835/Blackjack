@@ -3,8 +3,6 @@
 - Made with Python 3.13 and Tkinter GUI
 
 ## Setup Instructions
-### Option 1: Run Project in Terminal
-
 1. Clone this git repo to your computer
 ```
 git clone https://github.com/aileeng3835/Blackjack.git
@@ -30,7 +28,7 @@ or Run Project in PyCharm. See the following video.
 	- Press anywhere on the screen to close the rules
 
 ## Test
-- Run the test folder in PyCharm
+- Run the tests folder in PyCharm
 
 ## Next Steps
 - Allow for multiple players (either controlled by the user or AI)
