@@ -21,7 +21,7 @@ python3 main.py
 ```
 or Run Project in PyCharm. See the following video.
 
-![Screen Recording]()
+![Screen Recording](https://drive.google.com/file/d/1Kqoux_76OM8BX43w6MTBHNGtWDwU7oy_/view?usp=sharing)
 
 ## Playing the Game
 - Use the device keyboard to press **‘H’ to Hit** or **‘S’ to Stay**
